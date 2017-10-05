@@ -115,7 +115,8 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    SnapdragonCamera
+    SnapdragonCamera \
+    camera.msm8996
 
 # Display
 PRODUCT_PACKAGES += \
